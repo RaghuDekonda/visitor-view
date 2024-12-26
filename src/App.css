@@ -1,0 +1,14 @@
+
+.App {
+  text-align: center;
+}
+
+body{
+  background-image: url('./images//visitor.png');
+  background-size: cover;
+  background-position: center;
+  color:black;
+  height: 100vh;
+  
+}
+
